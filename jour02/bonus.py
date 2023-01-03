@@ -10,7 +10,7 @@ def triangle(a,b,c):
             print('je suis un triangle rectangle')
         elif b==a==c :
             print ('je suis un triangle equilatéral.')
-        elif b==c :
+        elif b==c or a==b or a==c :
             print ('je suis un triangle isocèle.')
         else :
             print('je suis un trinagle quelconque')
