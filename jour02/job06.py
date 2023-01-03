@@ -8,4 +8,4 @@ def nombre(nombre):
     else :
         print ("je suis le nombre 0")
 
-nombre(int(num))
+nombre(float(num))

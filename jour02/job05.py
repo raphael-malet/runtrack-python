@@ -15,4 +15,3 @@ print(calcule(3,"-",3))
 print(calcule(3,"*",3))
 print(calcule(3,"/",3))
 print(calcule(3,"%",3))
-
